@@ -1,4 +1,4 @@
-# Multimodal RAG Full-Stack GenAI Bootcamp
+# Multimodal RAG Full-Stack GenAI  
 
 A full-stack Generative AI project for learning how to build a multimodal
 Retrieval-Augmented Generation (RAG) application. The project will demonstrate
